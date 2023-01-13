@@ -1,0 +1,44 @@
+
+body{
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url('../assests/wallpaperflare.com_wallpaper.jpg');
+}
+.message{
+    margin-left: 100px;
+    /* background-color: rgb(255, 252, 252); */
+    width: fit-content;
+    margin-top: 200px;
+    text-align: center;
+    color: white;
+}
+.form{
+    margin-left: 100px;
+}
+.input1{
+    border-color: white;
+    border-width: 10px;
+    margin-left: 10px;
+    height: 30px;
+    width: 280px;
+}
+.input2{
+    border-color: white;
+    border-width: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 30px;
+    width: 280px;
+}
+.button{
+    border-radius: 10%;
+    margin-top: 20px;
+    margin-left: 110px;
+    height: 50px;
+    width: 80px;
+    background-color: blueviolet;
+    color: white;
+    border: none;
+}
